@@ -1,0 +1,12 @@
+# Core dependencies
+numpy>=1.20.0
+scipy>=1.7.0
+sounddevice>=0.4.0
+sofar>=0.3.0
+
+# Face tracking (optional)
+mediapipe>=0.10.0
+opencv-python>=4.5.0
+
+# Audiograph / image processing (optional)
+Pillow>=9.0.0
